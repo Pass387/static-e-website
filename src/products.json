@@ -1,0 +1,228 @@
+[
+	{
+		"id": 1,
+		"name": "jbl speakers",
+		"price": 5500,
+		"category": "speakers",
+		"description": "jbl bluetooth speakers with led lights",
+		"image": "/inventory/1201c2cc6ad1efda1cd64a02e6ceb14d.jpg"
+	},
+	{
+		"id": 2,
+		"name": "selfie stick",
+		"price": 1300,
+		"category": "camera",
+		"description": "a black selfie stick with shortcut buttons",
+		"image": "/inventory/81ef9da687058a16596b348783d0e8f1.jpg"
+	},
+	{
+		"id": 3,
+		"name": "airpods",
+		"price": 1500,
+		"category": "earphones",
+		"description": "a black oraimo airpods",
+		"image": "/inventory/3d7a6a8fcdf53c3f321a3f8106173ba8.jpg"
+	},
+	{
+		"id": 4,
+		"name": "dell cpu",
+		"price": 22000,
+		"category": "computers",
+		"description": "a black dell computer with 8gb ram, 256ssd and it is i5generation",
+		"image": "/inventory/3c880ec83f5033dd6f08abefd555ffe9.jpg"
+	},
+	{
+		"id": 5,
+		"name": "macbook pro",
+		"price": 35000,
+		"category": "laptops",
+		"description": "a black macbook prto with 8gb ram, 256ssd and comes with type c charging",
+		"image": "/inventory/4b262831cc3b2726d0c0c236734be9b3.jpg"
+	},
+	{
+		"id": 29,
+		"name": "flash with otg and memory card incorporated ",
+		"price": 1350,
+		"category": "usb",
+		"description": "a beikel usb with 512gb integrated otg and memory card with 128gb",
+		"image": "/inventory/6c607932e0db4b08d5f49a93fa7ddb4a.jpg"
+	},
+	{
+		"id": 6,
+		"name": "printer",
+		"price": 38000,
+		"category": "printer",
+		"description": "an epson printer",
+		"image": "/inventory/8d1c26258a1eea9735c3d6e55c85566a.jpg"
+	},
+	{
+		"id": 7,
+		"name": "camera",
+		"price": 999,
+		"category": "camera",
+		"description": "a black camera that has a 4k display",
+		"image": "/inventory/19b6721deedf43244c64180239cea8d8.jpg"
+	},
+	{
+		"id": 8,
+		"name": "memory card",
+		"price": 759,
+		"category": "memory card",
+		"description": "its a 64gb memory card",
+		"image": "/inventory/19f4512d08b83d18a8665789939879ca.jpg"
+	},
+	{
+		"id": 9,
+		"name": "wifi router",
+		"price": 3500,
+		"category": "router",
+		"description": "asus wifi router",
+		"image": "/inventory/48ea1f3996ed1c66781c2158ed9f83ff.jpg"
+	},
+	{
+		"id": 10,
+		"name": "hp laptop",
+		"price": 25000,
+		"category": "laptop",
+		"description": "a grey hp laptop with widows 11 and 256ssd,8gb ram and i5 generation",
+		"image": "/inventory/80a81673d01f6ee935fcf14b48ee4348.jpg"
+	},
+	{
+		"id": 11,
+		"name": "playstation 5",
+		"price": 55000,
+		"category": "playstation",
+		"description": "a black playstation 5 traded with 8months of use",
+		"image": "/inventory/2863782eab0e8397e5081d602d85f6aa.jpg"
+	},
+	{
+		"id": 13,
+		"name": "hp printer",
+		"price": 42000,
+		"category": "printers",
+		"description": "a black hp printer",
+		"image": "/inventory/91c382be2031c07666296ed9e5db4eeb.jpg"
+	},
+	{
+		"id": 14,
+		"name": "mouse",
+		"price": 300,
+		"category": "mouse",
+		"description": "a black mouse which is not wireless",
+		"image": "/inventory/304ed54c83ffa166cdc11774f4a1be9b.jpg"
+	},
+	{
+		"id": 15,
+		"name": "microphone",
+		"price": 3300,
+		"category": "microphone",
+		"description": "jbl wireless microphone",
+		"image": "/inventory/fb9ba7aaacb94aef42208590df25ce87.jpg"
+	},
+	{
+		"id": 16,
+		"name": "sandisk usb",
+		"price": 1299,
+		"category": "usb",
+		"description": "sandisk usb with 32gb",
+		"image": "/inventory/f7e00329b723103ab6bdf2eaa85e9bff.jpg"
+	},
+	{
+		"id": 17,
+		"name": "keyboard",
+		"price": 1700,
+		"category": "keyboard",
+		"description": "a black wired keyboard",
+		"image": "/inventory/e48714e41be69995e11992d53513e804.jpg"
+	},
+	{
+		"id": 18,
+		"name": "memory card",
+		"price": 899,
+		"category": "memory card",
+		"description": "16gb memory card",
+		"image": "/inventory/e3df63930c041e121eeea9e7db733243.jpg"
+	},
+	{
+		"id": 19,
+		"name": "iphone cable",
+		"price": 650,
+		"category": "cables",
+		"description": "caoted iphone cable",
+		"image": "/inventory/da51dd1fb0e8f326f1794d9215f07dda.jpg"
+	},
+	{
+		"id": 20,
+		"name": "superdanny extension",
+		"price": 1900,
+		"category": "extension",
+		"description": "superdanny multi lane extension",
+		"image": "/inventory/d021d5342522be6640cf3ae68a6562ec.jpg"
+	},
+	{
+		"id": 21,
+		"name": "orico extension",
+		"price": 999,
+		"category": "extension",
+		"description": "orico single lane extension",
+		"image": "/inventory/d3f09d3558262fddeb8c10f3f7955ccb.jpg"
+	},
+	{
+		"id": 22,
+		"name": "cowin wireless headphone",
+		"price": 1200,
+		"category": "headphone",
+		"description": "blue cowin wireless headphone with extra bass",
+		"image": "/inventory/d7cdec94bb1a046f03e1ac36fbd7b7f6.jpg"
+	},
+	{
+		"id": 23,
+		"name": "gamer headphone",
+		"price": 1800,
+		"category": "headphone",
+		"description": "headphone with integrated mic and led lights",
+		"image": "/inventory/213589457e7b4729bc839a642a0d1eb9.jpg"
+	},
+	{
+		"id": 24,
+		"name": "debra microphone",
+		"price": 12000,
+		"category": "microphone",
+		"description": "debra microphone",
+		"image": "/inventory/c246e17cdf743f68ca0bbf1c43b14ed0.jpg"
+	},
+	{
+		"id": 25,
+		"name": "canon printer and photocopy",
+		"price": 57000,
+		"category": "printer",
+		"description": "canon printer integrated with photocopying",
+		"image": "/inventory/c5d7f19f73f501f389ab2ff61842b8d1.jpg"
+	},
+	
+	{
+		"id": 26,
+		"name": "benq projector",
+		"price": 22000,
+		"category": "projector",
+		"description": "benq projector with 4k resolution",
+		"image": "/inventory/813256b3f6e5ad4275cbe99d98405062.jpg"
+	},
+	{
+		"id": 27,
+		"name": "axess woofer",
+		"price": 20000,
+		"category": "woofers",
+		"description": "axess super bass and smooth treble woofer system",
+		"image": "/inventory/1591f2734496bcf1eb48fbc48deb5993.jpg"
+	},
+	{
+		"id": 28,
+		"name": "t&g speakers",
+		"price": 1300,
+		"category": "speakers",
+		"description": "t&g bluetooth speakers",
+		"image": "/inventory/50e833110c432c3acf8ea203450a3371.jpg"
+	}
+
+]
